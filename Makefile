@@ -1,4 +1,4 @@
-SFILES      = main.c
+SFILES      = main.c split.c str_join.c
 OFILES      = $(SFILES:.c=.o)
 CC          = cc
 RM          = rm -f
